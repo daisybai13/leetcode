@@ -1,2 +1,2 @@
 # leetcode
-leetcode的面试题
+leetcode的刷题集
